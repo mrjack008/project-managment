@@ -224,7 +224,7 @@ export function WhatsAppImport() {
                 Add New Contact
               </Button>
 
-              <Button onClick={handleSaveContacts} variant="primary" className="mt-4">
+              <Button onClick={handleSaveContacts} variant="default" className="mt-4">
                 Save Contacts
               </Button>
             </div>
