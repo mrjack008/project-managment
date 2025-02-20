@@ -1,0 +1,91 @@
+2025/02/20-10:29:01.705 3158 Reusing MANIFEST D:\Projects\Perfviz\leads-manager\whatsapp-session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/20-10:29:01.716 3158 Recovering log #3109
+2025/02/20-10:29:01.747 3158 Reusing old log D:\Projects\Perfviz\leads-manager\whatsapp-session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/003109.log 
+2025/02/20-10:29:02.571 3c50 Level-0 table #3125: started
+2025/02/20-10:29:02.598 3c50 Level-0 table #3125: 915146 bytes OK
+2025/02/20-10:29:02.601 3c50 Delete type=0 #3109
+2025/02/20-10:29:02.602 3f28 Manual compaction at level-0 from '\x00\xa2\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xa3\x00\x00\x00' @ 0 : 0; will stop at '\x00\xa2\x00\x00\x05' @ 10407947 : 1
+2025/02/20-10:29:02.602 3f28 Compacting 1@0 + 0@1 files
+2025/02/20-10:29:02.628 3f28 Generated table #3126@0: 13446 keys, 240187 bytes
+2025/02/20-10:29:02.635 3f28 Generated table #3127@0: 138 keys, 69290 bytes
+2025/02/20-10:29:02.645 3f28 Generated table #3128@0: 2092 keys, 179663 bytes
+2025/02/20-10:29:02.645 3f28 Compacted 1@0 + 0@1 files => 489140 bytes
+2025/02/20-10:29:02.647 3f28 compacted to: files[ 0 3 59 0 0 0 0 ]
+2025/02/20-10:29:02.648 3f28 Delete type=2 #3125
+2025/02/20-10:29:02.649 3f28 Manual compaction at level-0 from '\x00\xa2\x00\x00\x05' @ 10407947 : 1 .. '\x00\xa3\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/20-10:29:04.101 3f28 Compacting 1@1 + 13@2 files
+2025/02/20-10:29:04.204 3f28 Generated table #3129@1: 60938 keys, 2224183 bytes
+2025/02/20-10:29:04.293 3f28 Generated table #3130@1: 27398 keys, 2182177 bytes
+2025/02/20-10:29:04.430 3f28 Generated table #3131@1: 72929 keys, 2237182 bytes
+2025/02/20-10:29:04.569 3f28 Generated table #3132@1: 62796 keys, 2231439 bytes
+2025/02/20-10:29:04.650 3f28 Generated table #3133@1: 36364 keys, 2199095 bytes
+2025/02/20-10:29:04.687 3f28 Generated table #3134@1: 1656 keys, 2156677 bytes
+2025/02/20-10:29:04.693 3f28 Generated table #3135@1: 90 keys, 121894 bytes
+2025/02/20-10:29:04.693 3f28 Compacted 1@1 + 13@2 files => 13352647 bytes
+2025/02/20-10:29:04.694 3f28 compacted to: files[ 0 2 53 0 0 0 0 ]
+2025/02/20-10:29:04.695 3f28 Delete type=2 #2544
+2025/02/20-10:29:04.695 3f28 Delete type=2 #2784
+2025/02/20-10:29:04.695 3f28 Delete type=2 #2800
+2025/02/20-10:29:04.695 3f28 Delete type=2 #2812
+2025/02/20-10:29:04.695 3f28 Delete type=2 #2821
+2025/02/20-10:29:04.695 3f28 Delete type=2 #2837
+2025/02/20-10:29:04.695 3f28 Delete type=2 #2848
+2025/02/20-10:29:04.695 3f28 Delete type=2 #2859
+2025/02/20-10:29:04.696 3f28 Delete type=2 #3113
+2025/02/20-10:29:04.696 3f28 Delete type=2 #3114
+2025/02/20-10:29:04.696 3f28 Delete type=2 #3115
+2025/02/20-10:29:04.696 3f28 Delete type=2 #3116
+2025/02/20-10:29:04.696 3f28 Delete type=2 #3117
+2025/02/20-10:29:04.696 3f28 Delete type=2 #3126
+2025/02/20-10:29:04.802 3f28 Compacting 1@1 + 24@2 files
+2025/02/20-10:29:04.901 3f28 Generated table #3136@1: 24170 keys, 2276710 bytes
+2025/02/20-10:29:04.987 3f28 Generated table #3137@1: 24386 keys, 2269264 bytes
+2025/02/20-10:29:05.080 3f28 Generated table #3138@1: 31097 keys, 2221163 bytes
+2025/02/20-10:29:05.170 3f28 Generated table #3139@1: 28000 keys, 2239834 bytes
+2025/02/20-10:29:05.230 3f28 Generated table #3140@1: 8638 keys, 2165146 bytes
+2025/02/20-10:29:05.295 3f28 Generated table #3141@1: 32032 keys, 2161903 bytes
+2025/02/20-10:29:05.424 3f28 Generated table #3142@1: 110248 keys, 2262297 bytes
+2025/02/20-10:29:05.563 3f28 Generated table #3143@1: 108927 keys, 2259176 bytes
+2025/02/20-10:29:05.705 3f28 Generated table #3144@1: 107570 keys, 2257673 bytes
+2025/02/20-10:29:05.810 3f28 Generated table #3145@1: 86660 keys, 1807123 bytes
+2025/02/20-10:29:05.810 3f28 Compacted 1@1 + 24@2 files => 21920289 bytes
+2025/02/20-10:29:05.812 3f28 compacted to: files[ 0 1 39 0 0 0 0 ]
+2025/02/20-10:29:05.813 3f28 Delete type=2 #2826
+2025/02/20-10:29:05.813 3f28 Delete type=2 #2930
+2025/02/20-10:29:05.813 3f28 Delete type=2 #2931
+2025/02/20-10:29:05.813 3f28 Delete type=2 #2932
+2025/02/20-10:29:05.814 3f28 Delete type=2 #2957
+2025/02/20-10:29:05.814 3f28 Delete type=2 #2958
+2025/02/20-10:29:05.814 3f28 Delete type=2 #2961
+2025/02/20-10:29:05.814 3f28 Delete type=2 #2972
+2025/02/20-10:29:05.814 3f28 Delete type=2 #2983
+2025/02/20-10:29:05.814 3f28 Delete type=2 #2994
+2025/02/20-10:29:05.814 3f28 Delete type=2 #3005
+2025/02/20-10:29:05.814 3f28 Delete type=2 #3016
+2025/02/20-10:29:05.814 3f28 Delete type=2 #3028
+2025/02/20-10:29:05.814 3f28 Delete type=2 #3040
+2025/02/20-10:29:05.814 3f28 Delete type=2 #3051
+2025/02/20-10:29:05.814 3f28 Delete type=2 #3063
+2025/02/20-10:29:05.815 3f28 Delete type=2 #3075
+2025/02/20-10:29:05.815 3f28 Delete type=2 #3087
+2025/02/20-10:29:05.815 3f28 Delete type=2 #3108
+2025/02/20-10:29:05.815 3f28 Delete type=2 #3118
+2025/02/20-10:29:05.815 3f28 Delete type=2 #3119
+2025/02/20-10:29:05.815 3f28 Delete type=2 #3120
+2025/02/20-10:29:05.815 3f28 Delete type=2 #3121
+2025/02/20-10:29:05.815 3f28 Delete type=2 #3122
+2025/02/20-10:29:05.815 3f28 Delete type=2 #3128
+2025/02/20-10:29:09.460 3f28 Compacting 1@1 + 10@2 files
+2025/02/20-10:29:09.503 3f28 Generated table #3146@1: 1793 keys, 2157996 bytes
+2025/02/20-10:29:09.550 3f28 Generated table #3147@1: 1810 keys, 2158305 bytes
+2025/02/20-10:29:09.596 3f28 Generated table #3148@1: 1788 keys, 2158411 bytes
+2025/02/20-10:29:09.643 3f28 Generated table #3149@1: 1810 keys, 2158332 bytes
+2025/02/20-10:29:09.686 3f28 Generated table #3150@1: 1805 keys, 2157330 bytes
+2025/02/20-10:29:09.746 3f28 Generated table #3151@1: 12564 keys, 2166482 bytes
+2025/02/20-10:29:09.851 3f28 Generated table #3152@1: 32588 keys, 2240568 bytes
+2025/02/20-10:29:09.958 3f28 Generated table #3153@1: 24805 keys, 2278264 bytes
+2025/02/20-10:29:10.071 3f28 Generated table #3154@1: 23747 keys, 2278165 bytes
+2025/02/20-10:29:10.176 3f28 Generated table #3155@1: 23124 keys, 2277739 bytes
+2025/02/20-10:29:10.184 3f28 Generated table #3156@1: 872 keys, 83702 bytes
+2025/02/20-10:29:10.184 3f28 Compacted 1@1 + 10@2 files => 22115294 bytes
+2025/02/20-10:29:10.185 3f28 compacted to: files[ 0 0 40 0 0 0 0 ]
